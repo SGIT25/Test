@@ -3,6 +3,8 @@
 	xmlns="sap.m"
 	xmlns:form="sap.ui.layout.form"
 	xmlns:core="sap.ui.core" >
+	<!--  viran123--> 
+	
 	<Page
 		title="{i18n>DetailTitle}"
 		class="sapUiFioriObjectPage"
