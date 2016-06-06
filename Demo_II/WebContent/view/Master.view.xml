@@ -3,7 +3,7 @@
 	xmlns="sap.m"
 	xmlns:core="sap.ui.core" >
 	<Page
-		title="Title" >
+		title="viran" >
 <!-- 		infaaz -->
 		<subHeader>
 			<Bar>
